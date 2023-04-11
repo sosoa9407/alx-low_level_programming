@@ -1,4 +1,4 @@
-#inlcude "main"
+#include "main"
 
 /**
  * *str_concat -  function that concatenates two strings
